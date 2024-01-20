@@ -1,89 +1,71 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: "About Me"
+subtitle: "Travis Hineman Portfolio"
+# use quarto markdown to 
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<style>
+h2, h3, h4 {
+    text-align: center;
+}
+</style>
 
+# Resume
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+[Download Full Resume](Resume-12-29-23.pdf)
 
 
-### Research interests
+## **Travis Hineman**
+#### +1 571-442-7090 | travishineman85@gmail.com | [LinkedIn](http://www.linkedin.com/in/travis-hineman)
+---
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+#### **Education**
+##### Bachelor of Business in Business Analytics | *Brigham Young University -Idaho* | Rexburg, ID
+2019 - Present
 
+#### **Work Experience**
+##### Amazon DSP Delivery Driver | *Metropolitan logistics* | Sterling, VA August 2022 - December 2022
+* Developed good customer service skills through delivering up to 600 packages to customer instructions
+* Displayed an ability to work and efficiently manage time for up to 10 hours
+* Enhanced physical fitness through ability to lift packages weighing up to 50 lbs all day
+* Refined attention to detail by demonstrating highest level of integrity, compliance, and adherence within
+delivery/transportation services
+* Honed strong verbal communication skills while working with a team of 15
 
-## Education
+##### Delivery Technician | *Mountain Hot Tub* | Helena, MT September 2021 - December 2021
+* Delivered and installed up to 3 hot tubs by working in teams including filling and connecting
+* Troubleshot onsite problems, offering immediate and long-term solutions
 
-`1654-1660`
-__The King's School, Grantham.__
+##### Customer Care and Loyalty Agent | *SafeStreetsUSA* | Rexburg, ID March 2021 - June 2021
+* Resolved calls from national customers while balancing company policies
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+##### Service Volunteer | *Church of Jesus Christ of Latter Day Saints* | Tijuana, Baja California
+August 2017 - August 2019
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+#### **Skills**
+* Data Analysis: Excel, Power BI, Python, R
+* Database Management: MySQL
+* Other Technical: QuickBooks, Git/GitHub
+* Soft Skills: Customer Service, Communication, Problem-Solving
 
 
-## Occupation
+#### **Languages**
+* Spanish - Intermediate
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+#### **Certifications And Licenses**
+* CompTIA A+
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+#### **Extra Curricular Activities**
+* Data Science Society:
+* Finance Society:
+* Eagle Scout & Boy Scouts of America
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
